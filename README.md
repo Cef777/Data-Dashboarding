@@ -49,6 +49,7 @@
 - Majority of enrollees are in Elementary (~15M)
 - Significant drop in enrolment from Elementary to SHS
 - Implication: Many learners do not complete basic education
+  
  **Recommendations:**
 - Strengthen Grade 6–7 transition
 - Introduce conditional cash incentives
@@ -57,6 +58,7 @@
 2. 📉 Consistent Decline Across Grade Levels
 - Steady Elementary enrolment, major attrition post-G6 and G10
 - Implication: Learners face multiple barriers transitioning between levels
+  
   **Recommendations:**
 - Career orientation starting Grade 5
 - Enhance G10 exit support programs
@@ -69,6 +71,7 @@
 - HUMSS popular with females
 - STEM balanced gender-wise
 - ARTS, SPORTS under-enrolled
+  
  **Recommendations:**
 - Equip TVL labs and certify instructors
 - Promote under-enrolled tracks with scholarships and infrastructure
