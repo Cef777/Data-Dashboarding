@@ -2,11 +2,11 @@
 
 ## Project Description
 
-- A data visualization and analysis initiative focused on the Department of Education (DepEd) enrolment data. This project addresses the agency's need for real-time insights by transforming static enrolment figures into an interactive dashboard for informed policy-making and planning.
+A data visualization and analysis initiative focused on the Department of Education (DepEd) enrolment data. This project addresses the agency's need for real-time insights by transforming static enrolment figures into an interactive dashboard for informed policy-making and planning.
 
 ## Description of Dataset Used
 
-- The dataset consists of official enrolment records from the Department of Education’s Learner Information System (LIS). It captures data across various education levels: Kindergarten, Elementary (Grades 1–6), Junior High School (Grades 7–10), and Senior High School (Grades 11–12), along with SHS track preferences and gender disaggregation.
+The dataset consists of official enrolment records from the Department of Education’s Learner Information System (LIS). It captures data across various education levels: Kindergarten, Elementary (Grades 1–6), Junior High School (Grades 7–10), and Senior High School (Grades 11–12), along with SHS track preferences and gender disaggregation.
 
 ## Questions KPI
 
@@ -78,4 +78,4 @@
 - Align tracks with labor market needs
 
 ## Final Conclusion
-- This project successfully highlights the value of data-driven governance in the Philippine education sector. The interactive dashboard enables DepEd personnel and policymakers to quickly identify enrolment trends, drop-off points, and track disparities—supporting strategic planning and resource allocation. With a reliable and intuitive tool, DepEd can now shift from reactive to proactive education management.
+This project successfully highlights the value of data-driven governance in the Philippine education sector. The interactive dashboard enables DepEd personnel and policymakers to quickly identify enrolment trends, drop-off points, and track disparities—supporting strategic planning and resource allocation. With a reliable and intuitive tool, DepEd can now shift from reactive to proactive education management.
