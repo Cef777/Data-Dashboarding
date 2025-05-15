@@ -42,3 +42,37 @@
 ## Dashboard
 
 ![Screenshot 2025-05-15 105519](https://github.com/user-attachments/assets/39b839b0-598d-4d88-8397-4c6795a0cbc9)
+
+
+## Project Insight
+1. 🏫 Elementary Education Still Dominates (55%)
+- Majority of enrollees are in Elementary (~15M)
+- Significant drop in enrolment from Elementary to SHS
+- Implication: Many learners do not complete basic education
+- **Recommendations:**
+- Strengthen Grade 6–7 transition
+- Introduce conditional cash incentives
+- Develop bridging programs
+
+2. 📉 Consistent Decline Across Grade Levels
+- Steady Elementary enrolment, major attrition post-G6 and G10
+- Implication: Learners face multiple barriers transitioning between levels
+- **Recommendations:**
+- Career orientation starting Grade 5
+- Enhance G10 exit support programs
+- Address regional barriers: accessibility, family pressure, etc.
+
+3. 🧑‍🏭 SHS Track Preferences
+- Top Track: TVL (Technical-Vocational-Livelihood)
+
+- **Trends:**
+- HUMSS popular with females
+- STEM balanced gender-wise
+- ARTS, SPORTS under-enrolled
+-**Recommendations:**
+- Equip TVL labs and certify instructors
+- Promote under-enrolled tracks with scholarships and infrastructure
+- Align tracks with labor market needs
+
+## Final Conclusion
+- This project successfully highlights the value of data-driven governance in the Philippine education sector. The interactive dashboard enables DepEd personnel and policymakers to quickly identify enrolment trends, drop-off points, and track disparities—supporting strategic planning and resource allocation. With a reliable and intuitive tool, DepEd can now shift from reactive to proactive education management.
